@@ -1,0 +1,22 @@
+*{
+    background-color:black;
+    color: whitesmoke;
+   
+}
+.linkable,a{
+     text-decoration: none;
+}
+.OOPS,img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 350px;
+    
+}
+#b{
+    color: aquamarine;
+}
+#c{
+    color:aqua;
+}
